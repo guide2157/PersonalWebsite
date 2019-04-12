@@ -34,7 +34,7 @@ body {
 .centralbox .text .typewriter h3 {
     overflow: auto;
     white-space: nowrap;
-    border-right: transparent;
+    border-right: 0.15em solid transparent;
     text-decoration-line: none;
     animation: fadeIn 2s,
     blink-cursor 1.7s 2s infinite;
@@ -51,7 +51,7 @@ body {
     letter-spacing: .1em;
     overflow: auto;
     white-space: nowrap;
-    border-right: transparent;
+    border-right: .15em solid transparent;
     animation: typing 1.5s steps(60, end),
     blink-cursor .1s ease-out;
     animation-duration: 1.5s;
@@ -70,7 +70,7 @@ body {
 
 @keyframes blink-cursor {
     from, to {
-        border-right: .15em solid orange
+        border-color: orange;
     }
     50% {
         border-color: transparent;
