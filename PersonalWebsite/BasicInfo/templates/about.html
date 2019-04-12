@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+{% extends "base.html" %}
+{%  load staticfiles i18n %}
+
+{% block title %}
+About
+{% endblock %}
+{% block body %}
+<h1>{% trans "About me" %}</h1>
+    <h3>{% trans "Hello. My name is Kittipod Pungcharoenkul. I am currently studying at University of British Columbia in Canada."%}
+    {% trans "I am originally from Bangkok, Thailand."%}</h3>
+{% endblock %}

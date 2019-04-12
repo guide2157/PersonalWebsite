@@ -1,0 +1,88 @@
+body {
+    background-color: gray;
+    font-family: monospace;
+    color: #cbcbcb;
+    letter-spacing: .1em;
+}
+
+.total {
+    margin-top: 10%;
+    position: relative;
+    width: 100%;
+}
+
+.centralbox {
+    padding: 10px;
+    height: 350px;
+    width: 100%;
+    background-color: #333;
+}
+
+
+.centralbox .text {
+    margin-left: 5%;
+    text-align: left;
+}
+
+
+.centralbox .text h3 {
+    -webkit-animation: fadein 2s;
+    animation: fadeIn 2s;
+}
+
+
+.centralbox .text .typewriter h3 {
+    overflow: auto;
+    white-space: nowrap;
+    border-right: transparent;
+    text-decoration-line: none;
+    animation: fadeIn 2s,
+    blink-cursor 1.7s 2s infinite;
+}
+
+.centralbox .text .typewriter {
+    width: fit-content;
+}
+
+
+.centralbox .text .typewriter h1 {
+    font-family: monospace;
+    color: #cbcbcb;
+    letter-spacing: .1em;
+    overflow: auto;
+    white-space: nowrap;
+    border-right: transparent;
+    animation: typing 1.5s steps(60, end),
+    blink-cursor .1s ease-out;
+    animation-duration: 1.5s;
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+@keyframes blink-cursor {
+    from, to {
+        border-right: .15em solid orange
+    }
+    50% {
+        border-color: transparent;
+    }
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+    to {
+        width: 100%
+    }
+}
+

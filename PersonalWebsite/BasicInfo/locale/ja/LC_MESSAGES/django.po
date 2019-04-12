@@ -1,0 +1,199 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-12 11:45-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/about.html:9
+msgid "About me"
+msgstr "私について"
+
+#: templates/about.html:10
+msgid ""
+"Hello. My name is Kittipod Pungcharoenkul. I am currently studying at "
+"University of British Columbia in Canada."
+msgstr ""
+"私の名前はキティポット　プンチャローンクンです。カナダの University of "
+"British Columbia で勉強しています。"
+
+#: templates/about.html:11
+msgid "I am originally from Bangkok, Thailand."
+msgstr "タイのバンコク出身です。"
+
+#: templates/base.html:31
+msgid "Home"
+msgstr "ホーム"
+
+#: templates/base.html:32
+msgid "About"
+msgstr "アバウト"
+
+#: templates/base.html:33
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: templates/gallery.html:17
+msgid "Bali"
+msgstr "バリ島"
+
+#: templates/gallery.html:18
+msgid "Indonesia"
+msgstr "インドネシア"
+
+#: templates/gallery.html:30
+msgid "Bangkok"
+msgstr "バンコク"
+
+#: templates/gallery.html:31 templates/gallery.html:45
+msgid "Thailand"
+msgstr "タイ"
+
+#: templates/gallery.html:44
+msgid "Phuket"
+msgstr "プーケット"
+
+#: templates/gallery.html:57
+msgid "Kyaiktiyo"
+msgstr "チャイティーヨー"
+
+#: templates/gallery.html:58
+msgid "Myanmar"
+msgstr "ミャンマー"
+
+#: templates/gallery.html:69
+msgid "Vientiane"
+msgstr "ビエンチャン"
+
+#: templates/gallery.html:70 templates/gallery.html:83
+msgid "Laos"
+msgstr "ラオス"
+
+#: templates/gallery.html:82
+msgid "Champassak"
+msgstr "チャンパサック"
+
+#: templates/gallery.html:96 templates/gallery.html:97
+msgid "Singapore"
+msgstr "シンガポール"
+
+#: templates/gallery.html:111
+msgid "Hakone"
+msgstr "箱根"
+
+#: templates/gallery.html:112 templates/gallery.html:127
+msgid "Japan"
+msgstr "日本"
+
+#: templates/gallery.html:126
+msgid "Niseko"
+msgstr "ニセコ"
+
+#: templates/gallery.html:141
+msgid "Seoul"
+msgstr "ソール"
+
+#: templates/gallery.html:142
+msgid "South Korea"
+msgstr "韓国"
+
+#: templates/gallery.html:155
+msgid "Zurich"
+msgstr "チューリッヒ"
+
+#: templates/gallery.html:157
+msgid "Switzerland"
+msgstr "スイス"
+
+#: templates/gallery.html:170
+msgid "Canadian Rockies"
+msgstr "カナディアンロッキー"
+
+#: templates/gallery.html:171 templates/gallery.html:185
+#: templates/gallery.html:199
+msgid "Canada"
+msgstr "カナダ"
+
+#: templates/gallery.html:184
+msgid "Vancouver"
+msgstr "バンクーバー"
+
+#: templates/gallery.html:198
+msgid "Montreal"
+msgstr "モントリオール"
+
+#: templates/gallery.html:212
+msgid "Chicago"
+msgstr "シカゴ"
+
+#: templates/gallery.html:213 templates/gallery.html:227
+#: templates/gallery.html:241 templates/gallery.html:255
+#: templates/gallery.html:269
+msgid "United States of America"
+msgstr "米国"
+
+#: templates/gallery.html:226
+msgid "New York"
+msgstr "ニューヨーク"
+
+#: templates/gallery.html:240
+msgid "Los Angeles"
+msgstr "ロサンゼルス"
+
+#: templates/gallery.html:254
+msgid "Seattle"
+msgstr "シアトル"
+
+#: templates/gallery.html:268
+msgid "Washington DC"
+msgstr "ワシントン DC"
+
+#: templates/landing.html:33
+msgid "Welcome to my page!"
+msgstr "私のベージにようこそ！"
+
+#: templates/landing.html:36
+msgid "Introduction:"
+msgstr "紹介："
+
+#: templates/landing.html:37
+msgid "My name is Kittipod."
+msgstr "私の名前はキティポット。"
+
+#: templates/landing.html:38
+msgid "I am a computer science major at UBC."
+msgstr ""
+"私はカナダのUBC大学に通っています。コンピューターサイエンスを専攻します。"
+
+#: templates/landing.html:39
+msgid "I like traveling, cooking, cycling, and photography"
+msgstr "私の趣味は旅行、料理、サイクル、写真術です。"
+
+#: templates/landing.html:40
+msgid "Press enter or click bellow to enter site."
+msgstr "サイトに入るために、エンターキーを押し、または下にクリックしてください。"
+
+#: templates/landing.html:43
+msgid ">> Enter site? "
+msgstr ">> サイトに入る？"
+
+#~ msgid "South East Asia"
+#~ msgstr "東南アジア"
+
+#~ msgid "East Asia"
+#~ msgstr "東アジア"
+
+#~ msgid "Europe"
+#~ msgstr "ユーロパ"

@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-12 11:45-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: templates/about.html:9
+msgid "About me"
+msgstr "เกี่ยวกับผม"
+
+#: templates/about.html:10
+msgid ""
+"Hello. My name is Kittipod Pungcharoenkul. I am currently studying at "
+"University of British Columbia in Canada."
+msgstr ""
+"สวัสดีครับ ผมชื่อกิตติพศ ปึงเจริญกุล ตอนนี้ศึกษาที่มหาลัย University of British Columbia "
+"ประเทศแคนาดา"
+
+#: templates/about.html:11
+msgid "I am originally from Bangkok, Thailand."
+msgstr "ผมเกิดและโตในกรุงเทพ"
+
+#: templates/base.html:31
+msgid "Home"
+msgstr "หน้าหลัก"
+
+#: templates/base.html:32
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+#: templates/base.html:33
+msgid "Gallery"
+msgstr "รวมภาพ"
+
+#: templates/gallery.html:17
+msgid "Bali"
+msgstr "บาหลี"
+
+#: templates/gallery.html:18
+msgid "Indonesia"
+msgstr "อินโดนีเซีย"
+
+#: templates/gallery.html:30
+msgid "Bangkok"
+msgstr "กรุงเทพ"
+
+#: templates/gallery.html:31 templates/gallery.html:45
+msgid "Thailand"
+msgstr "ไทย"
+
+#: templates/gallery.html:44
+msgid "Phuket"
+msgstr "ภูเก็ต"
+
+#: templates/gallery.html:57
+msgid "Kyaiktiyo"
+msgstr "พระธาตุอินทร์แขวน"
+
+#: templates/gallery.html:58
+msgid "Myanmar"
+msgstr "เมียนมา"
+
+#: templates/gallery.html:69
+msgid "Vientiane"
+msgstr "เวียงจันทน์"
+
+#: templates/gallery.html:70 templates/gallery.html:83
+msgid "Laos"
+msgstr "ลาว"
+
+#: templates/gallery.html:82
+msgid "Champassak"
+msgstr "จัมปาศักดิ์"
+
+#: templates/gallery.html:96 templates/gallery.html:97
+msgid "Singapore"
+msgstr "สิงคโปร์"
+
+#: templates/gallery.html:111
+msgid "Hakone"
+msgstr "ฮาโกเน่"
+
+#: templates/gallery.html:112 templates/gallery.html:127
+msgid "Japan"
+msgstr "ญี่ปุ่น"
+
+#: templates/gallery.html:126
+msgid "Niseko"
+msgstr "นิเสโกะ"
+
+#: templates/gallery.html:141
+msgid "Seoul"
+msgstr "โซล"
+
+#: templates/gallery.html:142
+msgid "South Korea"
+msgstr "เกาหลีใต้"
+
+#: templates/gallery.html:155
+msgid "Zurich"
+msgstr "ซูริก"
+
+#: templates/gallery.html:157
+msgid "Switzerland"
+msgstr "สวิตเซอร์แลนด์"
+
+#: templates/gallery.html:170
+msgid "Canadian Rockies"
+msgstr ""
+
+#: templates/gallery.html:171 templates/gallery.html:185
+#: templates/gallery.html:199
+msgid "Canada"
+msgstr "แคนาดา"
+
+#: templates/gallery.html:184
+msgid "Vancouver"
+msgstr "แวนคูเวอร์"
+
+#: templates/gallery.html:198
+msgid "Montreal"
+msgstr "มอนทรีออล"
+
+#: templates/gallery.html:212
+msgid "Chicago"
+msgstr "ชิคาโก"
+
+#: templates/gallery.html:213 templates/gallery.html:227
+#: templates/gallery.html:241 templates/gallery.html:255
+#: templates/gallery.html:269
+msgid "United States of America"
+msgstr "อเมริกา"
+
+#: templates/gallery.html:226
+msgid "New York"
+msgstr "นิวยอร์ค"
+
+#: templates/gallery.html:240
+msgid "Los Angeles"
+msgstr "ลอสแอนเจลิส"
+
+#: templates/gallery.html:254
+msgid "Seattle"
+msgstr "ซีแอตเทิล"
+
+#: templates/gallery.html:268
+msgid "Washington DC"
+msgstr "วอชิงตัน ดี.ซี."
+
+#: templates/landing.html:33
+msgid "Welcome to my page!"
+msgstr "ยินดีต้อนรับสู่เพจ"
+
+#: templates/landing.html:36
+msgid "Introduction:"
+msgstr "ข้อมูลเบื่องต้น:"
+
+#: templates/landing.html:37
+msgid "My name is Kittipod."
+msgstr "ผมชื่อกิตติพศ"
+
+#: templates/landing.html:38
+msgid "I am a computer science major at UBC."
+msgstr ""
+"ตอนนี้กำลังศึกษาที่ University of British Columbia ประเทศแคนาดา "
+"ในสาขาวิทยาศาสตร์คอมพิวเตอร์"
+
+#: templates/landing.html:39
+msgid "I like traveling, cooking, cycling, and photography"
+msgstr "ผมชื่นชอบที่จะเดินทาง ทำอาหาร ขี่จักรยาน และถ่ายรูป"
+
+#: templates/landing.html:40
+msgid "Press enter or click bellow to enter site."
+msgstr "โปรดกดปุ่ม enter หรือคลิกด้านล่าง เพื่อเข้าชมเว็บไซต์"
+
+#: templates/landing.html:43
+msgid ">> Enter site? "
+msgstr ">> เข้าสู่ไซต์? "
+
+#~ msgid "South East Asia"
+#~ msgstr "เอเชียตะวันออกเฉียงใต้"
+
+#~ msgid "East Asia"
+#~ msgstr "เอเชียตะวันออก"
+
+#~ msgid "Europe"
+#~ msgstr "ยุโรป"
